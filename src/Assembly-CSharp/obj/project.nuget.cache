@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XTeOxIoEjqtEXpxKJYEka9WCPC5qoooOdPJfYeOPnzT0USRZyXI9iX70aTkYebIXXgvA9yRdAQpEfzt+ZD5oA==",
+  "success": true,
+  "projectFilePath": "/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/filip/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/filip/.nuget/packages/microsoft.netframework.referenceassemblies.net35/1.0.2/microsoft.netframework.referenceassemblies.net35.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

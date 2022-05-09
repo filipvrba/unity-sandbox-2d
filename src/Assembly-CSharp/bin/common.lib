@@ -1,0 +1,10 @@
+PATH_GAME=../..
+ 
+open_windows()
+{
+    echo "Open console"
+    code bin/console.log
+ 
+    echo "Open a game"
+    $PATH_GAME/Sandbox.x86_64
+}

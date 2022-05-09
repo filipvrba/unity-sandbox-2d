@@ -1,0 +1,11 @@
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/bin/Debug/netstandard2.1/Assembly-CSharp.deps.json
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/bin/Debug/netstandard2.1/Assembly-CSharp.dll
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/bin/Debug/netstandard2.1/Assembly-CSharp.pdb
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/bin/Debug/netstandard2.1/UnityEngine.CoreModule.dll
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/bin/Debug/netstandard2.1/UnityEngine.SharedInternalsModule.dll
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/obj/Debug/netstandard2.1/Assembly-CSharp.csproj.AssemblyReference.cache
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/obj/Debug/netstandard2.1/Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/obj/Debug/netstandard2.1/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/obj/Debug/netstandard2.1/Assembly-CSharp.csproj.CopyComplete
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/obj/Debug/netstandard2.1/Assembly-CSharp.dll
+/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/obj/Debug/netstandard2.1/Assembly-CSharp.pdb

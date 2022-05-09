@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/Assembly-CSharp.csproj",
+        "packagesPath": "/home/filip/.nuget/packages/",
+        "outputPath": "/home/filip/Documents/unity/Sandbox/Build/src/Assembly-CSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/filip/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
